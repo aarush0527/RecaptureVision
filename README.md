@@ -209,8 +209,6 @@ Total                                       ~96 ms
 | MacBook Retina at optimal focus | **88–93%** |
 | Overall cross-validation (5-fold) | **~96.3% ± 0.8%** |
 
-The v1 classifier failed the MacBook case because it only used luminance-domain features. v2 adds H/S/Cb/Cr channel LBP, which is explicitly designed to survive the luminance smoothing applied by good cameras and good optics.
-
 ---
 
 ## Dataset
