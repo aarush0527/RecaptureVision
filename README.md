@@ -367,7 +367,7 @@ flask>=2.0.0
 
 ---
 
-## Honest Limitations
+## Limitations
 
 - Performance decreases on **very low-brightness screens**, especially when display artifacts become extremely weak. This remains the primary failure case and is an area for future improvement.
 - Detection is optimized for **digital screen recaptures**. Printed photographs are not explicitly modelled and would benefit from a dedicated print-forensics feature set and additional training data.
